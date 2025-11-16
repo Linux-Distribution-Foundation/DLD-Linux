@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-GPL--3.0-green)
 ![Status](https://img.shields.io/badge/Development-Active-brightgreen)
 ![Based on](https://img.shields.io/badge/Base-Ubuntu-orange)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blue)](SECURITY.md)
 
 DLD Linux (Desktop Linux Distribution Linux) is an Ubuntu-based desktop operating system designed to provide a clean, efficient, and developer-focused environment. It removes unnecessary vendor-controlled components while preserving compatibility with the broader Ubuntu ecosystem.
 
@@ -34,7 +35,7 @@ DLD Linux offers a focused, transparent, and upstream-aligned alternative by eli
 ## Desktop Environments
 
 1. **KDE Plasma** — A modern, feature-rich, and highly customizable desktop environment.  
-2. **GNOME** — A streamlined, workflow-driven environment designed for simplicity and efficiency.  
+2. **GNOME** — A streamlined, workflow-centered environment designed for simplicity and efficiency.  
 3. **Cinnamon** — A stable, lightweight desktop offering a familiar and traditional interface.
 
 ---
@@ -88,3 +89,4 @@ The Linux Distribution Foundation does not currently maintain a public contact a
 Project coordination, issues, and discussions take place through the GitHub organization:
 
 **https://github.com/Linux-Distribution-Foundation**
+
