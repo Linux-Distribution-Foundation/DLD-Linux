@@ -1,11 +1,7 @@
 # DLD Linux
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Based on](https://img.shields.io/badge/Base-Ubuntu-blue)
-![Packaging](https://img.shields.io/badge/Snap-Support%20Removed-red)
-![Focus](https://img.shields.io/badge/Focus-Developer%20Desktop-orange)
 ![License](https://img.shields.io/badge/License-GPL--3.0-lightgrey)
-![Security](https://img.shields.io/badge/Security-Policy-informational)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-success)
 
 **DLD Linux** is an upstream-aligned, Snap-free, user-respecting Ubuntu-based Linux distribution created and maintained by the **Linux Distribution Foundation (LDF)**.  
@@ -85,8 +81,6 @@ All trademarks belong to their respective owners.
 > The Linux Distribution Foundation provides **no guarantees** of security, performance, stability, or fitness for any purpose.  
 > Use of this software is solely at the user’s risk.
 
-This reflects GPL-3.0 requirements and reduces legal liability.
-
 ---
 
 ## Security Policy
@@ -135,8 +129,6 @@ All contributions must follow:
 - Downstream branding from other projects  
 - Non-open-source additions  
 
-This reduces legal, licensing, and trademark risk.
-
 ---
 
 ## Project Governance
@@ -148,14 +140,14 @@ DLD Linux follows LDF governance standards:
 - Open community participation  
 - Public discussions and issue tracking  
 
-Governance structures may expand as the project grows.
-
 ---
 
 ## Contact
 
-DLD Linux does not maintain a public contact address.  
-All communication occurs through:
+For all communication regarding DLD Linux or the Linux Distribution Foundation, use:
+
+**linuxdistributionfoundation@proton.me**
+
+Repository and issue tracking:
 
 **https://github.com/Linux-Distribution-Foundation/DLD-Linux**
-
