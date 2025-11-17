@@ -1,92 +1,161 @@
 # DLD Linux
 
-![Version Badge](https://img.shields.io/badge/Version-Alpha%200.1-blue)
-![License](https://img.shields.io/badge/License-GPL--3.0-green)
-![Status](https://img.shields.io/badge/Development-Active-brightgreen)
-![Based on](https://img.shields.io/badge/Base-Ubuntu-orange)
-[![Security Policy](https://img.shields.io/badge/Security-Policy-blue)](SECURITY.md)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Based on](https://img.shields.io/badge/Base-Ubuntu-blue)
+![Packaging](https://img.shields.io/badge/Snap-Support%20Removed-red)
+![Focus](https://img.shields.io/badge/Focus-Developer%20Desktop-orange)
+![License](https://img.shields.io/badge/License-GPL--3.0-lightgrey)
+![Security](https://img.shields.io/badge/Security-Policy-informational)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-success)
 
-DLD Linux (Desktop Linux Distribution Linux) is an Ubuntu-based desktop operating system designed to provide a clean, efficient, and developer-focused environment. It removes unnecessary vendor-controlled components while preserving compatibility with the broader Ubuntu ecosystem.
-
----
-
-## Why DLD Linux?
-
-Users often ask:  
-**“Why choose DLD Linux instead of standard Ubuntu?”**
-
-DLD Linux offers a focused, transparent, and upstream-aligned alternative by eliminating restrictive or intrusive components included in Ubuntu:
-
-1. **Removal of Canonical-Controlled Components**
-   - Canonical’s strategic priorities have shifted toward cloud, IoT, and AI.
-   - Ubuntu Desktop contains subscription-oriented messaging, such as Ubuntu Pro promotions.
-   - Snap, Canonical’s controlled packaging format, is enforced by default.
-   - The Ubuntu App Store heavily prioritizes Snap packages.
-   - Applications like Firefox installed via `apt` are silently replaced with Snap versions.
-
-   **DLD Linux removes Snap support, subscription promotions, and other vendor-specific mechanisms**, delivering a consistent and traditional Linux environment.
-
-2. **Choice of Upstream Desktop Environments**
-   - Ubuntu uses a heavily customized GNOME setup.
-   - DLD Linux provides **three unmodified, upstream desktop environments** to maximize user choice and control.
+**DLD Linux** is an upstream-aligned, Snap-free, user-respecting Ubuntu-based Linux distribution created and maintained by the **Linux Distribution Foundation (LDF)**.  
+It delivers a predictable, transparent system designed for developers who value control, clarity, and freedom from vendor lock-in.
 
 ---
 
-## Desktop Environments
+## Overview
 
-1. **KDE Plasma** — A modern, feature-rich, and highly customizable desktop environment.  
-2. **GNOME** — A streamlined, workflow-centered environment designed for simplicity and efficiency.  
-3. **Cinnamon** — A stable, lightweight desktop offering a familiar and traditional interface.
+DLD Linux provides a clean Ubuntu-compatible environment without Snap, forced vendor integrations, or subscription prompts.
+
+It focuses on:
+
+- A **minimal, predictable** base system  
+- **APT-only** package management  
+- **Upstream, unmodified desktop environments**  
+- **User autonomy** and transparent system behavior  
+- **Developer-first defaults** and documentation  
+
+DLD Linux makes only the changes required to remove Snap and maintain upstream consistency.
 
 ---
 
-## Roadmap
+## Key Features
 
-DLD Linux development follows three phases: **Alpha**, **Beta**, and **Stable**.
+- Fully **Snap-free**  
+- **Upstream desktops**, unmodified  
+- **Clean Ubuntu compatibility**  
+- **Zero vendor lock-in or subscription prompts**  
+- **Open build tooling**, no opaque components  
+- **Strict open-source compliance**  
+- Designed for **software development**, not commercialization  
 
-### **Alpha Phase**
-- 0.1 Alpha **(Current)**
-- 0.2 Alpha  
-- 0.3 Alpha  
-- 0.4 Alpha  
-- 0.5 Alpha  
-- 0.6 Alpha  
+---
 
-### **Beta Phase**
-- Beta 1  
-- Beta 2  
-- Beta 3  
+## Project Goals
 
-### **Stable Release**
-- 1.0 Release
+DLD Linux aims to:
+
+- Provide a transparent and reliable desktop Linux system  
+- Maintain maximal compatibility with Ubuntu archives  
+- Offer a predictable environment for development and packaging  
+- Reduce downstream complexity by avoiding unnecessary modifications  
+- Prioritize openness, clarity, and user freedom  
+
+---
+
+## Legal & Licensing
+
+DLD Linux is released under **GPL-3.0**, unless otherwise noted.
+
+### Licensing Requirements
+
+To maintain legal safety and clarity:
+
+- All code contributions **must** be open-source and GPL-compatible  
+- No unlicensed or proprietary binaries may be included  
+- Upstream trademarks **must not** be reused without permission  
+- Documentation and build instructions must remain open-licensed  
+
+### Attribution
+
+If artwork includes Tux, attribution is required:
+
+**"Tux by lewing@isc.tamu.edu"**
+
+### Trademark Disclaimer
+
+DLD Linux is an independent community project.  
+It is **not affiliated with, endorsed by, or sponsored by Canonical, Ubuntu, GNOME, KDE, or any associated entities**.
+
+All trademarks belong to their respective owners.
+
+### Warranty Disclaimer
+
+> DLD Linux is provided **“AS IS”**, without any warranty of any kind.  
+> The Linux Distribution Foundation provides **no guarantees** of security, performance, stability, or fitness for any purpose.  
+> Use of this software is solely at the user’s risk.
+
+This reflects GPL-3.0 requirements and reduces legal liability.
+
+---
+
+## Security Policy
+
+Security issues must be reported privately following:
+
+- [`SECURITY.md`](./SECURITY.md)
+
+Do not disclose vulnerabilities publicly until responsible reporting has been completed.
+
+---
+
+## Contributing
+
+We welcome contributions in development, documentation, packaging, testing, and design.
+
+Before contributing, review:
+
+- `CONTRIBUTING.md`  
+- `CODE_OF_CONDUCT.md`
+
+All contributions must follow:
+
+- The repository’s licensing  
+- Open-source compliance rules  
+- GitHub community standards  
+
+---
+
+## Project Scope
+
+### In Scope
+
+- Desktop Linux distribution development  
+- Packaging and system integration  
+- Documentation and build tooling  
+- Upstream-aligned configuration  
+- Removal of vendor lock-in mechanisms (e.g., Snap)
+
+### Out of Scope
+
+- Proprietary software  
+- Commercial support or SLAs  
+- Server, IoT, or mobile editions  
+- Redistribution of copyrighted or trademarked assets  
+- Downstream branding from other projects  
+- Non-open-source additions  
+
+This reduces legal, licensing, and trademark risk.
 
 ---
 
 ## Project Governance
 
-DLD Linux is developed and maintained by the **Linux Distribution Foundation**, a community-driven organization focused on transparent and open development practices.
+DLD Linux follows LDF governance standards:
 
-GitHub Organization:  
-**https://github.com/Linux-Distribution-Foundation**
+- Transparent public development  
+- Maintainer-led technical decisions  
+- Open community participation  
+- Public discussions and issue tracking  
 
----
-
-## GPL Compliance
-
-DLD Linux is distributed under the **GNU General Public License, version 3 (GPL-3.0)**.  
-All software components created by the DLD Linux project are released under GPL-3.0 unless otherwise noted.
-
-The Linux kernel is included under the **GNU General Public License, version 2 (GPL-2.0)**, as required by its upstream licensing.
-
-All modifications made by the DLD Linux project to GPL-licensed components are publicly available.  
-Users may request the corresponding source code for any GPL-licensed binary distributed with the system.
+Governance structures may expand as the project grows.
 
 ---
 
-## Contact & Community
+## Contact
 
-The Linux Distribution Foundation does not currently maintain a public contact address.  
-Project coordination, issues, and discussions take place through the GitHub organization:
+DLD Linux does not maintain a public contact address.  
+All communication occurs through:
 
-**https://github.com/Linux-Distribution-Foundation**
+**https://github.com/Linux-Distribution-Foundation/DLD-Linux**
 
