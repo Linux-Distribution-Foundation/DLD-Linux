@@ -1,111 +1,114 @@
 # Code of Conduct  
-For the DLD Linux Project
+For the **DLD Linux Project**  
+**Linux Distribution Foundation (LDF)**
 
-The DLD Linux community is committed to providing a welcoming, inclusive, and productive environment for all contributors. This Code of Conduct outlines expected behavior and responsibilities for anyone participating in the project.
+The DLD Linux project is committed to maintaining a professional, inclusive, and transparent development environment. This Code of Conduct defines expected behavior and responsibilities for everyone participating in the project.
 
 ---
 
 ## 1. Purpose
 
-DLD Linux depends on a collaborative, respectful community.  
-This Code of Conduct establishes guidelines to ensure contributors can work together in an environment that encourages professional, constructive interaction.
+DLD Linux relies on a collaborative and respectful community.  
+This Code of Conduct ensures that contributors can engage in productive technical work without harassment, disruption, or hostility.
+
+All contributors must follow this policy when participating in project activities.
 
 ---
 
 ## 2. Expected Behavior
 
-All participants are expected to:
+Participants are expected to:
 
-- Be respectful and professional in all interactions.  
-- Use clear and constructive communication.  
-- Accept and provide feedback gracefully.  
-- Respect differing technical opinions and approaches.  
-- Follow project maintainers' decisions once they are made.  
-- Focus on what is best for the project and the community.
+- Communicate professionally and constructively  
+- Respect differing technical viewpoints  
+- Provide and accept feedback courteously  
+- Work toward solutions that benefit the project as a whole  
+- Follow maintainers’ decisions once finalized  
+- Uphold open-source principles, transparency, and integrity  
 
 ---
 
 ## 3. Unacceptable Behavior
 
-Examples of unacceptable behavior include:
+The following conduct is prohibited:
 
-- Insults, personal attacks, or derogatory remarks.  
-- Harassment, intimidation, or threats of any kind.  
-- Disruptive or hostile behavior that interferes with project work.  
-- Publishing private information of others without consent.  
-- Purposefully submitting malicious or intentionally harmful code.  
-- Dismissing or attacking new contributors.
+- Personal attacks, insults, or demeaning comments  
+- Harassment, discrimination, or intimidation  
+- Disruptive or aggressive behavior  
+- Sharing private or sensitive information without consent  
+- Knowingly submitting malicious, harmful, or deceptive contributions  
+- Hostility toward new contributors  
+- Attempts to undermine maintainers’ decisions or project governance  
 
 ---
 
 ## 4. Technical Conduct
 
-Given that DLD Linux is a Linux distribution, additional technical expectations apply:
+As a Linux distribution, DLD Linux requires strict technical discipline. Contributors must:
 
-- Do not introduce proprietary, closed-source, or license-incompatible components.  
-- Do not include code that circumvents security mechanisms or introduces vulnerabilities.  
-- Avoid unnecessary divergence from upstream projects.  
-- Respect upstream project licenses and contribution rules.  
-- Submit code that is maintainable, well-documented, and tested.
+- Not submit proprietary, closed-source, or license-incompatible code  
+- Not introduce components that weaken or bypass security practices  
+- Maintain strict GPL and upstream license compliance  
+- Avoid unnecessary divergence from upstream  
+- Provide maintainable, documented, and tested submissions  
+- Respect upstream trademarks, licenses, and project boundaries  
 
 ---
 
 ## 5. Responsibilities of Maintainers
 
-Project maintainers are responsible for:
+Maintainers are responsible for:
 
-- Reviewing contributions professionally and impartially.  
-- Ensuring compliance with this Code of Conduct.  
-- Providing clear, actionable feedback.  
-- Taking appropriate action when unacceptable behavior occurs.  
-- Removing or rejecting contributions that violate this policy.  
-- Suspending or banning contributors who repeatedly or deliberately violate the rules.
+- Reviewing contributions professionally and impartially  
+- Enforcing this Code of Conduct consistently  
+- Providing clear, actionable feedback  
+- Rejecting or reverting contributions that violate this policy  
+- Taking action when necessary, including suspending or removing contributors  
 
 ---
 
 ## 6. Reporting Issues
 
-If you experience or witness unacceptable behavior:
+Until a formal contact method is established, contributors may:
 
-- Open an issue in the appropriate repository **if the matter is technical**.  
-- For conduct-related concerns, email the maintainers or GitHub organization administrators once a formal contact method is established.
+- Open a **private GitHub issue** requesting confidential communication  
+- Contact an LDF maintainer directly through GitHub if appropriate  
 
-Until a contact address is available, contributors may open a **private GitHub issue** requesting confidential communication.
-
-Reports will be handled professionally and confidentially to the extent permitted.
+Reports will be handled as discreetly as possible within GitHub’s capabilities.
 
 ---
 
 ## 7. Enforcement
 
-Violations of this Code of Conduct may result in actions such as:
+Violations may result in:
 
 - A warning  
-- Rejection of contributions  
+- Rejection or removal of contributions  
 - Temporary or permanent suspension from participation  
-- Removal from the GitHub organization  
+- Removal from the LDF GitHub organization in severe cases  
 
-Enforcement decisions are at the discretion of the project maintainers.
+Enforcement decisions are made by the DLD Linux maintainers.
 
 ---
 
 ## 8. Scope
 
-This Code of Conduct applies to all project spaces, including:
+This Code of Conduct applies to all DLD Linux project spaces, including:
 
 - GitHub repositories  
-- Issue trackers  
+- Issues  
 - Pull requests and reviews  
-- Project documentation  
-- Community communication channels  
-- Any project-hosted or project-associated spaces
+- Discussions  
+- Documentation  
+- Any project-associated community spaces  
 
 ---
 
 ## 9. Amendments
 
-The Linux Distribution Foundation may update this Code of Conduct as needed to better serve the community and maintain a healthy development environment.
+The Linux Distribution Foundation may update this Code of Conduct as needed.  
+All updates will be published in this repository.
 
 ---
 
-By contributing to DLD Linux, you agree to abide by this Code of Conduct.
+By contributing to DLD Linux, you agree to comply with this Code of Conduct.
