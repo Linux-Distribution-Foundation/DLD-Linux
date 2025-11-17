@@ -1,0 +1,6 @@
+# Default ownership for the entire repository
+* @sterliemovement401 @Linux-Distribution-Foundation/Maintainers
+
+# Assign Security team only to security-related files
+SECURITY.md @Linux-Distribution-Foundation/Security
+.github/SECURITY.md @Linux-Distribution-Foundation/Security
